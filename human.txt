@@ -1,0 +1,54 @@
+/* SITE DEVELOPMENT ROLES */
+
+  Project Manager:
+  Technical Development Lead:
+  Backend and Architect Developer:
+  Frontend Development:
+  Design and UX/UI: 
+
+/* TEAM */
+
+  Name: 
+  Title:
+  Email:
+  Location: 
+
+/* THANKS */ 
+
+  Frontend CSS Framework: Dave Gamache 
+  GitHub: https://github.com/dhg
+  URL: http://getskeleton.com/
+  
+  Frontend JS Framework: Imperavi
+  Twitter: https://twitter.com/imperavi
+  URL: http://imperavi.com/kube/tools/
+  
+  FontAwesome: Dave Gandy
+  GitHub: https://github.com/davegandy
+  URL: http://fontawesome.io/
+  
+  CSS Normalize: Nicolas Gallagher and Jonathan Neal
+  GitHub: https://github.com/necolas
+  URL: http://necolas.github.io/normalize.css/
+  
+  JS Modernizr: Faruk Ateş
+  GitHub: https://github.com/Modernizr
+  URL: http://modernizr.com/
+
+  jQuery.iecors: Derek Kastner
+  GitHub: https://github.com/dkastner
+  URL: https://github.com/dkastner/jquery.iecors
+  
+  
+/* SPECIAL SHOUT OUT */
+
+  If your name was missed, don't be pissed,
+  send an email to me, and on the list, you will be.
+
+/* SITE */
+
+  Last Updated: 
+  Languages: English
+  Doctype: HTML5
+  Standards: HTML5 // CSS3 // 
+  IDE: Brackets.io // Sketch 3 // Filezilla 
