@@ -39,6 +39,10 @@
   GitHub: https://github.com/dkastner
   URL: https://github.com/dkastner/jquery.iecors
   
+  Animate.css: Daniel Eden
+  GitHub: https://github.com/daneden/animate.css
+  URL: https://daneden.github.io/animate.css/
+  
   
 /* SPECIAL SHOUT OUT */
 
