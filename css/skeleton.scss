@@ -240,6 +240,10 @@ p {
   text-align: right;
 }
 
+.uppercase {
+  text-transform: uppercase;
+}
+
 // Links
 //––––––––––––––––––––––––––––––––––––––––––––––––––
 a,
@@ -518,10 +522,12 @@ li {
   margin-bottom: 1rem;
 }
 
-.list-inline {
-  display: inline-block;
+.inline-display {
+  
+  li {
+    display: inline;
+  }
 }
-
 
 // Code
 //––––––––––––––––––––––––––––––––––––––––––––––––––
